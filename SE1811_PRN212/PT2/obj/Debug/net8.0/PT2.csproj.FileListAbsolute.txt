@@ -1,0 +1,15 @@
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\bin\Debug\net8.0\PT2.exe
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\bin\Debug\net8.0\PT2.deps.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\bin\Debug\net8.0\PT2.runtimeconfig.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\bin\Debug\net8.0\PT2.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\bin\Debug\net8.0\PT2.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.AssemblyInfoInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.AssemblyInfo.cs
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.csproj.CoreCompileInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.sourcelink.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\refint\PT2.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\PT2.genruntimeconfig.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\PT2\obj\Debug\net8.0\ref\PT2.dll

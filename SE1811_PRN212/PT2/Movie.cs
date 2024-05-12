@@ -8,16 +8,36 @@ namespace PT2
 {
     internal class Movie : IMovie
     {
-        public int ID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Name { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public DateTime PublishDate { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Director { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public string Subtitle { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public float AverageRate { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public DateTime PublishDate { get; set; }
+        public string Director { get; set; }
+        public string Subtitle { get; set; }
+        public float AverageRate { get; set; }
+        public string Language { get; set; }
+        public float[] RateList { get; set; } = new float[3];
 
         public void Display()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{this.Name}, {PublishDate}, {Director}, {Language}, {AverageRate}");
         }
+
+        public double this[int index]
+        {
+            get { return RateList[index]; }
+            set { RateList[index] = (float)value; }
+        }
+
+        public float CalculateAverageRate(float[] avg)
+        {
+            float rate = 0;
+            for (int i = 0; i < avg.Length; i++)
+            {
+                rate += avg[i];
+            }
+            return rate/avg.Length;
+        }
+
     }
+
 }

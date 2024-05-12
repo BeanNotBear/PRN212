@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace PT2
 {
-    internal interface IMovie
+    public interface IMovie
     {
-        public int ID { get; set; }
-        public string Name { get; set; }
-        public DateTime PublishDate { get; set; }
-        public string Director { get; set; }
-        public string Subtitle { get; set; }
-        public float AverageRate { get; set; }
+        int ID { get; set; }
+        string Name { get; set; }
+        DateTime PublishDate { get; set; }
+        string Director { get; set; }
+        string Subtitle { get; set; }
+        string Language { get; set; }
+        float AverageRate { get; set; }
 
         void Display();
+
+        float CalculateAverageRate(float[] avg);
     }
 }
