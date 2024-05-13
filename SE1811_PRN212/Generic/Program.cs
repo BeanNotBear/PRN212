@@ -14,8 +14,8 @@ namespace Generic
             //Gen2<string> gen2 = new Gen2<string>() { Data = "Nguyen Van Nghi" };
             //Console.WriteLine(gen2.ToString());
 
-            Gen2<int> gen3 = new Gen2<int>() { Data = 2003 };
-            Console.WriteLine(gen3.ToString());
+            //Gen2<int> gen3 = new Gen2<int>() { Data = 2003 };
+            //Console.WriteLine(gen3.ToString());
 
             // constraint parameter
             // using 'where' to set up
@@ -23,6 +23,11 @@ namespace Generic
             // class: same with (reference-datatype)
             // new(): same with (reference-datatype) *Note: - Have No arg constructor
                                                          // - Public
+
+            // U: T will be dependent on parameter (Tham so kieu)
+
+
+
             
 
 
