@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Method", "Generic-Method\Generic-Method.csproj", "{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface-Generic", "Interface-Generic\Interface-Generic.csproj", "{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

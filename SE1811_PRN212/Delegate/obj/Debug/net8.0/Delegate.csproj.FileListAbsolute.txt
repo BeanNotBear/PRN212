@@ -1,0 +1,15 @@
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Delegate\obj\Debug\net8.0\ref\Delegate.dll
