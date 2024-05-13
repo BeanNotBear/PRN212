@@ -1,0 +1,15 @@
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\bin\Debug\net8.0\Generic-Method.exe
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\bin\Debug\net8.0\Generic-Method.deps.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\bin\Debug\net8.0\Generic-Method.runtimeconfig.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\bin\Debug\net8.0\Generic-Method.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\bin\Debug\net8.0\Generic-Method.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.AssemblyInfoInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.AssemblyInfo.cs
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.csproj.CoreCompileInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.sourcelink.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\refint\Generic-Method.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\Generic-Method.genruntimeconfig.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Generic-Method\obj\Debug\net8.0\ref\Generic-Method.dll
