@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface-Generic", "Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast-Delegate", "Multicast-Delegate\Multicast-Delegate.csproj", "{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
