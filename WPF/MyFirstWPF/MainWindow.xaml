@@ -1,0 +1,34 @@
+﻿<Window x:Class="MyFirstWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyFirstWPF"
+        mc:Ignorable="d"
+        Title="My First Window" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Demo">
+    <Grid>
+        <TextBlock 
+            x:Name="demo"
+            Text="Hello world"
+            FontSize="20px" 
+            Foreground="Red" 
+            FontWeight="Bold"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Margin="10, 20, 30, 40"
+        />
+        <!--comment-->
+
+        <Button
+            Click="Demo1"
+            Content="Click Here"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Background="Aqua"
+            Width="70"
+            Height="30" Margin="355,258,0,0"
+            />
+    </Grid>
+</Window>

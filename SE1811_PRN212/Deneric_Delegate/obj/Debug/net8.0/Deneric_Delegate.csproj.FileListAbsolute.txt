@@ -1,0 +1,15 @@
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\bin\Debug\net8.0\Deneric_Delegate.exe
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\bin\Debug\net8.0\Deneric_Delegate.deps.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\bin\Debug\net8.0\Deneric_Delegate.runtimeconfig.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\bin\Debug\net8.0\Deneric_Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\bin\Debug\net8.0\Deneric_Delegate.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.AssemblyInfoInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.AssemblyInfo.cs
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.csproj.CoreCompileInputs.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.sourcelink.json
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\refint\Deneric_Delegate.dll
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.pdb
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\Deneric_Delegate.genruntimeconfig.cache
+D:\2_Learnspace\2_FPT\Semester 5\PRN212\03_Basic\SE1811_PRN212\Deneric_Delegate\obj\Debug\net8.0\ref\Deneric_Delegate.dll

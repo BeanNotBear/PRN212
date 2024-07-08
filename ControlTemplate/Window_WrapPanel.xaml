@@ -1,0 +1,23 @@
+﻿<Window x:Class="ControlTemplate.Window_WrapPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTemplate"
+        mc:Ignorable="d"
+        Title="Window_WrapPanel" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <WrapPanel Background="LightBlue" Orientation="Vertical">
+            <Label Content="Enter car information"
+                   Width="320" FontSize="18"/>
+            <Label Content="Car Name:"/>
+            <TextBox Height="25" Width="250"/>
+            <Label Content="Color:"/>
+            <TextBox Height="25" Width="250"/>
+            <Label Content="Brand:"/>
+            <TextBox Height="25" Width="250"/>
+            <Button Content="Display" Height="25" Width="100" Margin="10"/>
+        </WrapPanel>
+    </Grid>
+</Window>

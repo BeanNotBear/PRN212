@@ -1,0 +1,23 @@
+﻿<Window x:Class="ControlTemplate.Window_StackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTemplate"
+        mc:Ignorable="d"
+        Title="Window_StackPanel" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Background="LightBlue">
+            <Label Content="Enter car information" Width="150" HorizontalAlignment="Center"/>
+            <Label Content="Car Name:"/>
+            <TextBox Height="25" Width="350" HorizontalAlignment="Left"/>
+            <Label Content="Color:"/>
+            <TextBox Height="25" Width="350" HorizontalAlignment="Left"/>
+            <Label Content="Brand"/>
+            <TextBox Height="25" Width="150" HorizontalAlignment="Left"/>
+            <Button Content="Display" Height="25" Width="150" Margin="10" HorizontalAlignment="Center"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

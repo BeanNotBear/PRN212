@@ -13,15 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PT2", "PT2\PT2.csproj", "{AC30A8D5-C088-4973-8C76-17FD2337D7EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{A7FAF300-BD9C-4F20-A4EC-12522052950A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{A7FAF300-BD9C-4F20-A4EC-12522052950A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic-Method", "Generic-Method\Generic-Method.csproj", "{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic-Method", "Generic-Method\Generic-Method.csproj", "{49603CAB-00FA-4BBA-B0B4-BA84A9B4EFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface-Generic", "Interface-Generic\Interface-Generic.csproj", "{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface-Generic", "Interface-Generic\Interface-Generic.csproj", "{224C9744-CEDE-47FE-B1FC-9E72ED920A6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{90A6E441-33E1-47D0-8ACE-C3C8982AFDBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast-Delegate", "Multicast-Delegate\Multicast-Delegate.csproj", "{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multicast-Delegate", "Multicast-Delegate\Multicast-Delegate.csproj", "{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonimous", "Anonimous\Anonimous.csproj", "{92A7DF03-FEB4-4E71-A5E6-A26EAE702E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneric_Delegate", "Deneric_Delegate\Deneric_Delegate.csproj", "{6BE2F7CF-0FEC-476C-8095-02D25822F634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{1E105926-8A3B-4269-956D-680A46481F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{33EE62B2-D3BE-4A61-94BD-BC8598D17CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E27EE8D-DD12-46E3-8999-6234CD3AACB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A7DF03-FEB4-4E71-A5E6-A26EAE702E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A7DF03-FEB4-4E71-A5E6-A26EAE702E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A7DF03-FEB4-4E71-A5E6-A26EAE702E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A7DF03-FEB4-4E71-A5E6-A26EAE702E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE2F7CF-0FEC-476C-8095-02D25822F634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE2F7CF-0FEC-476C-8095-02D25822F634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE2F7CF-0FEC-476C-8095-02D25822F634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE2F7CF-0FEC-476C-8095-02D25822F634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E105926-8A3B-4269-956D-680A46481F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E105926-8A3B-4269-956D-680A46481F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E105926-8A3B-4269-956D-680A46481F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E105926-8A3B-4269-956D-680A46481F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33EE62B2-D3BE-4A61-94BD-BC8598D17CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EE62B2-D3BE-4A61-94BD-BC8598D17CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EE62B2-D3BE-4A61-94BD-BC8598D17CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EE62B2-D3BE-4A61-94BD-BC8598D17CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
